@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-27T21:19:48.436048Z</date>
+  <millis>1669583988436</millis>
+  <nanos>48000</nanos>
+  <sequence>0</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[1, 2, 6, 7, 23, 1, 32, 5]</message>
+</record>
+<record>
+  <date>2022-11-27T21:19:48.499099Z</date>
+  <millis>1669583988499</millis>
+  <nanos>99000</nanos>
+  <sequence>1</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[1, 2, 6, 7, 23, 1, 5, 32]</message>
+</record>
+<record>
+  <date>2022-11-27T21:19:48.499745Z</date>
+  <millis>1669583988499</millis>
+  <nanos>745000</nanos>
+  <sequence>2</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[1, 2, 6, 7, 1, 23, 5, 32]</message>
+</record>
+<record>
+  <date>2022-11-27T21:19:48.500250Z</date>
+  <millis>1669583988500</millis>
+  <nanos>250000</nanos>
+  <sequence>3</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[1, 2, 6, 7, 1, 5, 23, 32]</message>
+</record>
+<record>
+  <date>2022-11-27T21:19:48.500741Z</date>
+  <millis>1669583988500</millis>
+  <nanos>741000</nanos>
+  <sequence>4</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[1, 2, 6, 1, 7, 5, 23, 32]</message>
+</record>
+<record>
+  <date>2022-11-27T21:19:48.501371Z</date>
+  <millis>1669583988501</millis>
+  <nanos>371000</nanos>
+  <sequence>5</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[1, 2, 6, 1, 5, 7, 23, 32]</message>
+</record>
+<record>
+  <date>2022-11-27T21:19:48.502148Z</date>
+  <millis>1669583988502</millis>
+  <nanos>148000</nanos>
+  <sequence>6</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[1, 2, 1, 6, 5, 7, 23, 32]</message>
+</record>
+<record>
+  <date>2022-11-27T21:19:48.502747Z</date>
+  <millis>1669583988502</millis>
+  <nanos>747000</nanos>
+  <sequence>7</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[1, 2, 1, 5, 6, 7, 23, 32]</message>
+</record>
+<record>
+  <date>2022-11-27T21:19:48.503226Z</date>
+  <millis>1669583988503</millis>
+  <nanos>226000</nanos>
+  <sequence>8</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[1, 1, 2, 5, 6, 7, 23, 32]</message>
+</record>
+</log>
