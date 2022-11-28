@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-27T21:40:53.495672Z</date>
+  <millis>1669585253495</millis>
+  <nanos>672000</nanos>
+  <sequence>0</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Запуск программы</message>
+</record>
+<record>
+  <date>2022-11-27T21:40:53.572095Z</date>
+  <millis>1669585253572</millis>
+  <nanos>95000</nanos>
+  <sequence>1</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Текущее число 0.000000</message>
+</record>
+<record>
+  <date>2022-11-27T21:40:58.370137Z</date>
+  <millis>1669585258370</millis>
+  <nanos>137000</nanos>
+  <sequence>2</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Произведено сложение с числом 12.000000</message>
+</record>
+<record>
+  <date>2022-11-27T21:40:58.371459Z</date>
+  <millis>1669585258371</millis>
+  <nanos>459000</nanos>
+  <sequence>3</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Текущее число 12.000000</message>
+</record>
+<record>
+  <date>2022-11-27T21:41:06.151206Z</date>
+  <millis>1669585266151</millis>
+  <nanos>206000</nanos>
+  <sequence>4</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Произведено деление на число 2.000000</message>
+</record>
+<record>
+  <date>2022-11-27T21:41:06.153266Z</date>
+  <millis>1669585266153</millis>
+  <nanos>266000</nanos>
+  <sequence>5</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Текущее число 6.000000</message>
+</record>
+<record>
+  <date>2022-11-27T21:41:09.828269Z</date>
+  <millis>1669585269828</millis>
+  <nanos>269000</nanos>
+  <sequence>6</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Произведён сброс на ноль</message>
+</record>
+<record>
+  <date>2022-11-27T21:41:09.829290Z</date>
+  <millis>1669585269829</millis>
+  <nanos>290000</nanos>
+  <sequence>7</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Текущее число 0.000000</message>
+</record>
+<record>
+  <date>2022-11-27T21:41:14.763264Z</date>
+  <millis>1669585274763</millis>
+  <nanos>264000</nanos>
+  <sequence>8</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Выход из программы</message>
+</record>
+</log>

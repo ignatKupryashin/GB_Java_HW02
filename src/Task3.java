@@ -12,5 +12,26 @@
 //
 
 
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
 public class Task3 {
+    public static void main(String[] args) throws ParseException {
+        String[] myString = {"{\"фамилия\":\"Иванов\",\"оценка\":\"5\",\"предмет\":\"Математика\"}",
+                "{\"фамилия\":\"Петрова\",\"оценка\":\"4\",\"предмет\":\"Информатика\"}",
+                "{\"фамилия\":\"Краснов\",\"оценка\":\"5\",\"предмет\":\"Физика\"}"};
+
+        JSONParser myParser = new JSONParser();
+        for (String item:myString
+             ) {
+            Object obj = myParser.parse(item);
+            JSONObject myJSON = (JSONObject) obj;
+            System.out.println(String.format("Студент %s получил %s по предмету %s", myJSON.get("фамилия"), myJSON.get("оценка"), myJSON.get("предмет")));
+        }
+
+
+
+
+    }
 }
